@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: cms
+    database: cms_inpatient
+    schema: main
+    tables:
+      - name: inpatient_raw
